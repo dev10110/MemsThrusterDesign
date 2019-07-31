@@ -1,0 +1,21 @@
+\begin{thebibliography}{1}
+
+\bibitem{gpkit}
+E.~Burnell and W.~Hoburg, ``Gpkit software for geometric programming.''
+  \url{https://github.com/convexengineering/gpkit}, 2014.
+\newblock Version 0.9.0.
+
+\bibitem{huang1992}
+D.~H. Huang and D.~K. Huzel, {\em Modern engineering for design of
+  liquid-propellant rocket engines}.
+\newblock American Institute of Aeronautics and Astronautics, 1992.
+
+\bibitem{vapourPressure_engToolbox}
+``Propane butane mixures - evaporation pressures.''
+  \url{https://www.engineeringtoolbox.com/propane-butane-mix-d_1043.html}.
+
+\bibitem{lange}
+J.~A. Dean, {\em Lange's handbook of chemistry}.
+\newblock New york; London: McGraw-Hill, Inc., 1999.
+
+\end{thebibliography}
